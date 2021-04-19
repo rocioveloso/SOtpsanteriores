@@ -1,0 +1,134 @@
+[TRACE] 17:28:07:985 gamecard/(26299:26299): Estructura creada
+[ERROR] 17:28:07:986 gamecard/(26299:26300): No se pudo establecer conexion con Broker.
+[TRACE] 17:28:12:986 gamecard/(26299:26300): Reintentando conexion con Broker...
+[ERROR] 17:28:12:987 gamecard/(26299:26300): No se pudo establecer conexion con Broker.
+[INFO] 17:30:18:465 gamecard/(26441:26441): El directorio /home/mauro/Documentos/Sisop/TALL_GRASS ya existe
+[ERROR] 17:30:18:466 gamecard/(26441:26442): No se pudo establecer conexion con Broker.
+[TRACE] 22:19:23:515 gamecard/(3454:3454): Estructura creada
+[TRACE] 22:19:23:542 gamecard/(3454:3455): Conexion con Broker exitosa.
+[TRACE] 22:19:23:543 gamecard/(3454:3455): Nuevo ID: 1
+[TRACE] 22:19:23:544 gamecard/(3454:3454): Conexion con Broker exitosa.
+[TRACE] 22:19:23:544 gamecard/(3454:3454): Se ha suscripto a la cola NEW_POKEMON
+[TRACE] 22:19:23:544 gamecard/(3454:3454): Se ha suscripto a la cola CATCH_POKEMON
+[TRACE] 22:19:23:545 gamecard/(3454:3454): Conexion con Broker exitosa.
+[TRACE] 22:19:23:545 gamecard/(3454:3454): Se ha suscripto a la cola GET_POKEMON
+[TRACE] 22:20:48:873 gamecard/(3574:3574): Estructura creada
+[TRACE] 22:20:48:877 gamecard/(3574:3575): Conexion con Broker exitosa.
+[TRACE] 22:20:48:878 gamecard/(3574:3575): Gamecard reenlazado con exito
+[TRACE] 22:20:48:878 gamecard/(3574:3574): Conexion con Broker exitosa.
+[TRACE] 22:20:48:878 gamecard/(3574:3574): Se ha suscripto a la cola NEW_POKEMON
+[TRACE] 22:20:48:878 gamecard/(3574:3574): Se ha suscripto a la cola CATCH_POKEMON
+[TRACE] 22:20:48:878 gamecard/(3574:3574): Conexion con Broker exitosa.
+[TRACE] 22:20:48:878 gamecard/(3574:3574): Se ha suscripto a la cola GET_POKEMON
+[TRACE] 22:21:40:881 gamecard/(3621:3621): Estructura creada
+[TRACE] 22:21:40:964 gamecard/(3621:3622): Conexion con Broker exitosa.
+[TRACE] 22:21:40:979 gamecard/(3621:3622): Gamecard reenlazado con exito
+[TRACE] 22:21:40:987 gamecard/(3621:3621): Conexion con Broker exitosa.
+[TRACE] 22:21:40:988 gamecard/(3621:3621): Se ha suscripto a la cola NEW_POKEMON
+[TRACE] 22:21:40:993 gamecard/(3621:3621): Se ha suscripto a la cola CATCH_POKEMON
+[TRACE] 22:21:41:42 gamecard/(3621:3621): Conexion con Broker exitosa.
+[TRACE] 22:21:41:43 gamecard/(3621:3621): Se ha suscripto a la cola GET_POKEMON
+[INFO] 22:23:00:596 gamecard/(3709:3709): El directorio /home/mauro/Documentos/Sisop/TALL_GRASS ya existe
+[TRACE] 22:23:00:684 gamecard/(3709:3710): Conexion con Broker exitosa.
+[TRACE] 22:23:00:701 gamecard/(3709:3710): Gamecard reenlazado con exito
+[TRACE] 22:23:00:709 gamecard/(3709:3709): Conexion con Broker exitosa.
+[TRACE] 22:23:00:710 gamecard/(3709:3709): Se ha suscripto a la cola NEW_POKEMON
+[TRACE] 22:23:00:716 gamecard/(3709:3709): Se ha suscripto a la cola CATCH_POKEMON
+[TRACE] 22:23:00:764 gamecard/(3709:3709): Conexion con Broker exitosa.
+[TRACE] 22:23:00:766 gamecard/(3709:3709): Se ha suscripto a la cola GET_POKEMON
+[INFO] 22:24:35:624 gamecard/(3800:3800): El directorio /home/mauro/Documentos/Sisop/TALL_GRASS ya existe
+[TRACE] 22:24:35:712 gamecard/(3800:3801): Conexion con Broker exitosa.
+[TRACE] 22:24:35:728 gamecard/(3800:3801): Gamecard reenlazado con exito
+[TRACE] 22:24:35:736 gamecard/(3800:3800): Conexion con Broker exitosa.
+[TRACE] 22:24:35:737 gamecard/(3800:3800): Se ha suscripto a la cola NEW_POKEMON
+[TRACE] 22:24:35:743 gamecard/(3800:3800): Se ha suscripto a la cola CATCH_POKEMON
+[TRACE] 22:24:35:792 gamecard/(3800:3800): Conexion con Broker exitosa.
+[TRACE] 22:24:35:794 gamecard/(3800:3800): Se ha suscripto a la cola GET_POKEMON
+[TRACE] 22:25:27:312 gamecard/(3851:3851): Estructura creada
+[TRACE] 22:25:27:394 gamecard/(3851:3852): Conexion con Broker exitosa.
+[TRACE] 22:25:27:410 gamecard/(3851:3852): Gamecard reenlazado con exito
+[TRACE] 22:25:27:418 gamecard/(3851:3851): Conexion con Broker exitosa.
+[TRACE] 22:25:27:419 gamecard/(3851:3851): Se ha suscripto a la cola NEW_POKEMON
+[TRACE] 22:25:27:425 gamecard/(3851:3851): Se ha suscripto a la cola CATCH_POKEMON
+[TRACE] 22:25:27:474 gamecard/(3851:3851): Conexion con Broker exitosa.
+[TRACE] 22:25:27:476 gamecard/(3851:3851): Se ha suscripto a la cola GET_POKEMON
+[TRACE] 22:34:31:815 gamecard/(4263:4263): Estructura creada
+[TRACE] 22:34:31:899 gamecard/(4263:4264): Conexion con Broker exitosa.
+[TRACE] 22:34:31:916 gamecard/(4263:4264): Gamecard reenlazado con exito
+[TRACE] 22:34:31:923 gamecard/(4263:4263): Conexion con Broker exitosa.
+[TRACE] 22:34:31:924 gamecard/(4263:4263): Se ha suscripto a la cola NEW_POKEMON
+[TRACE] 22:34:31:930 gamecard/(4263:4263): Se ha suscripto a la cola CATCH_POKEMON
+[TRACE] 22:34:31:980 gamecard/(4263:4263): Conexion con Broker exitosa.
+[TRACE] 22:34:31:981 gamecard/(4263:4263): Se ha suscripto a la cola GET_POKEMON
+[INFO] 22:41:31:937 gamecard/(4754:4754): El directorio /home/mauro/Documentos/Sisop/TALL_GRASS ya existe
+[TRACE] 22:41:31:937 gamecard/(4754:4755): Conexion con Broker exitosa.
+[TRACE] 22:41:31:938 gamecard/(4754:4755): Gamecard reenlazado con exito
+[TRACE] 22:41:31:939 gamecard/(4754:4754): Conexion con Broker exitosa.
+[TRACE] 22:41:31:939 gamecard/(4754:4754): Se ha suscripto a la cola NEW_POKEMON
+[TRACE] 22:41:31:940 gamecard/(4754:4754): Se ha suscripto a la cola CATCH_POKEMON
+[TRACE] 22:41:31:941 gamecard/(4754:4754): Conexion con Broker exitosa.
+[TRACE] 22:41:31:941 gamecard/(4754:4754): Se ha suscripto a la cola GET_POKEMON
+[TRACE] 22:41:59:463 gamecard/(4801:4801): Estructura creada
+[TRACE] 22:41:59:467 gamecard/(4801:4802): Conexion con Broker exitosa.
+[TRACE] 22:41:59:468 gamecard/(4801:4802): Gamecard reenlazado con exito
+[TRACE] 22:41:59:468 gamecard/(4801:4801): Conexion con Broker exitosa.
+[TRACE] 22:41:59:468 gamecard/(4801:4801): Se ha suscripto a la cola NEW_POKEMON
+[TRACE] 22:41:59:468 gamecard/(4801:4801): Se ha suscripto a la cola CATCH_POKEMON
+[TRACE] 22:41:59:468 gamecard/(4801:4801): Conexion con Broker exitosa.
+[TRACE] 22:41:59:468 gamecard/(4801:4801): Se ha suscripto a la cola GET_POKEMON
+[TRACE] 22:42:38:272 gamecard/(4847:4847): Estructura creada
+[TRACE] 22:42:38:354 gamecard/(4847:4848): Conexion con Broker exitosa.
+[TRACE] 22:42:38:371 gamecard/(4847:4848): Gamecard reenlazado con exito
+[TRACE] 22:42:38:378 gamecard/(4847:4847): Conexion con Broker exitosa.
+[TRACE] 22:42:38:380 gamecard/(4847:4847): Se ha suscripto a la cola NEW_POKEMON
+[TRACE] 22:42:38:386 gamecard/(4847:4847): Se ha suscripto a la cola CATCH_POKEMON
+[TRACE] 22:42:38:441 gamecard/(4847:4847): Conexion con Broker exitosa.
+[TRACE] 22:42:38:442 gamecard/(4847:4847): Se ha suscripto a la cola GET_POKEMON
+[INFO] 22:57:08:575 gamecard/(5370:5370): El directorio /home/mauro/Documentos/Sisop/TALL_GRASS ya existe
+[TRACE] 22:57:08:662 gamecard/(5370:5371): Conexion con Broker exitosa.
+[TRACE] 22:57:08:677 gamecard/(5370:5371): Gamecard reenlazado con exito
+[TRACE] 22:57:08:684 gamecard/(5370:5370): Conexion con Broker exitosa.
+[TRACE] 22:57:08:688 gamecard/(5370:5370): Se ha suscripto a la cola NEW_POKEMON
+[TRACE] 22:57:08:694 gamecard/(5370:5370): Se ha suscripto a la cola CATCH_POKEMON
+[TRACE] 22:57:08:743 gamecard/(5370:5370): Conexion con Broker exitosa.
+[TRACE] 22:57:08:745 gamecard/(5370:5370): Se ha suscripto a la cola GET_POKEMON
+[TRACE] 22:57:35:513 gamecard/(5389:5389): Estructura creada
+[TRACE] 22:57:35:607 gamecard/(5389:5395): Conexion con Broker exitosa.
+[TRACE] 22:57:35:624 gamecard/(5389:5395): Gamecard reenlazado con exito
+[TRACE] 22:57:35:634 gamecard/(5389:5389): Conexion con Broker exitosa.
+[TRACE] 22:57:35:636 gamecard/(5389:5389): Se ha suscripto a la cola NEW_POKEMON
+[TRACE] 22:57:35:646 gamecard/(5389:5389): Se ha suscripto a la cola CATCH_POKEMON
+[TRACE] 22:57:35:698 gamecard/(5389:5389): Conexion con Broker exitosa.
+[TRACE] 22:57:35:699 gamecard/(5389:5389): Se ha suscripto a la cola GET_POKEMON
+[TRACE] 22:59:48:363 gamecard/(5523:5523): Estructura creada
+[TRACE] 22:59:48:445 gamecard/(5523:5526): Conexion con Broker exitosa.
+[TRACE] 22:59:48:459 gamecard/(5523:5526): Gamecard reenlazado con exito
+[TRACE] 22:59:48:466 gamecard/(5523:5523): Conexion con Broker exitosa.
+[TRACE] 22:59:48:467 gamecard/(5523:5523): Se ha suscripto a la cola NEW_POKEMON
+[TRACE] 22:59:48:476 gamecard/(5523:5523): Se ha suscripto a la cola CATCH_POKEMON
+[TRACE] 22:59:48:524 gamecard/(5523:5523): Conexion con Broker exitosa.
+[TRACE] 22:59:48:526 gamecard/(5523:5523): Se ha suscripto a la cola GET_POKEMON
+[TRACE] 00:02:57:382 gamecard/(6724:6724): Estructura creada
+[TRACE] 00:02:57:383 gamecard/(6724:6725): Conexion con Broker exitosa.
+[TRACE] 00:02:57:383 gamecard/(6724:6725): Gamecard reenlazado con exito
+[TRACE] 00:02:57:386 gamecard/(6724:6724): Conexion con Broker exitosa.
+[TRACE] 00:02:57:386 gamecard/(6724:6724): Se ha suscripto a la cola NEW_POKEMON
+[TRACE] 00:02:57:386 gamecard/(6724:6724): Se ha suscripto a la cola CATCH_POKEMON
+[TRACE] 00:02:57:386 gamecard/(6724:6724): Conexion con Broker exitosa.
+[TRACE] 00:02:57:387 gamecard/(6724:6724): Se ha suscripto a la cola GET_POKEMON
+[INFO] 00:03:27:886 gamecard/(6761:6761): El directorio /home/mauro/Documentos/Sisop/TALL_GRASS ya existe
+[TRACE] 00:03:27:974 gamecard/(6761:6762): Conexion con Broker exitosa.
+[TRACE] 00:03:27:991 gamecard/(6761:6762): Gamecard reenlazado con exito
+[TRACE] 00:03:27:999 gamecard/(6761:6761): Conexion con Broker exitosa.
+[TRACE] 00:03:27:0 gamecard/(6761:6761): Se ha suscripto a la cola NEW_POKEMON
+[TRACE] 00:03:28:5 gamecard/(6761:6761): Se ha suscripto a la cola CATCH_POKEMON
+[TRACE] 00:03:28:62 gamecard/(6761:6761): Conexion con Broker exitosa.
+[TRACE] 00:03:28:69 gamecard/(6761:6761): Se ha suscripto a la cola GET_POKEMON
+[TRACE] 00:03:46:110 gamecard/(6781:6781): Estructura creada
+[TRACE] 00:03:46:190 gamecard/(6781:6782): Conexion con Broker exitosa.
+[TRACE] 00:03:46:204 gamecard/(6781:6782): Gamecard reenlazado con exito
+[TRACE] 00:03:46:211 gamecard/(6781:6781): Conexion con Broker exitosa.
+[TRACE] 00:03:46:213 gamecard/(6781:6781): Se ha suscripto a la cola NEW_POKEMON
+[TRACE] 00:03:46:224 gamecard/(6781:6781): Se ha suscripto a la cola CATCH_POKEMON
+[TRACE] 00:03:46:272 gamecard/(6781:6781): Conexion con Broker exitosa.
+[TRACE] 00:03:46:274 gamecard/(6781:6781): Se ha suscripto a la cola GET_POKEMON

@@ -1,0 +1,17 @@
+[TRACE] 11:14:29:863 team/(5585:5585): Creación de entrenador A. Estado: NUEVO
+
+[TRACE] 11:14:29:863 team/(5585:5585): Creación de entrenador B. Estado: NUEVO
+
+[TRACE] 11:14:29:863 team/(5585:5585): Creación de entrenador C. Estado: NUEVO
+
+[TRACE] 11:14:29:863 team/(5585:5585): Creación de entrenador D. Estado: NUEVO
+
+[TRACE] 11:14:29:864 team/(5585:5585): Creación de entrenador E. Estado: NUEVO
+
+[ERROR] 11:14:29:864 team/(5585:5585): Falló conexión con el broker. Se realizo operación por default. Pokemon Vaporeon no esta en el mapa
+[ERROR] 11:14:29:864 team/(5585:5585): Falló conexión con el broker. Se realizo operación por default. Pokemon Jolteon no esta en el mapa
+[ERROR] 11:14:29:864 team/(5585:5585): Falló conexión con el broker. Se realizo operación por default. Pokemon Flareon no esta en el mapa
+[ERROR] 11:14:29:864 team/(5585:5585): Falló conexión con el broker. Se realizo operación por default. Pokemon Umbreon no esta en el mapa
+[ERROR] 11:14:29:864 team/(5585:5585): Falló conexión con el broker. Se realizo operación por default. Pokemon Espeon no esta en el mapa
+[ERROR] 11:14:29:864 team/(5585:5585): No se pudo reconectar con el broker. Reintentando conexión.
+[ERROR] 11:14:29:868 team/(5585:5587): No se pudo reconectar con el broker.

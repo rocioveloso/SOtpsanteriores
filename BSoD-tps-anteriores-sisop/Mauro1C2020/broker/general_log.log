@@ -1,0 +1,12 @@
+[TRACE] 22:21:40:976 Broker/(3614:3623): 	REENLACE:  Socket: 6, id: 1
+[TRACE] 22:21:40:991 Broker/(3614:3624): 	SUSCRIBIR: NEW_POKEMON  (Enum: 11, Socket: 7, id: 1)
+[TRACE] 22:21:40:993 Broker/(3614:3626): 	SUSCRIBIR: CATCH_POKEMON   (Enum: 13, Socket: 8, id: 1)
+[TRACE] 22:21:41:42 Broker/(3614:3628): 	SUSCRIBIR: GET_POKEMON   (Enum: 15, Socket: 9, id: 1)
+[TRACE] 22:21:44:827 Broker/(3614:3631): 	AGREGANDO MENSAJE: NEW_POKEMON (23 -> 32).
+[TRACE] 22:21:44:827 Broker/(3614:3631): 	Se almacena al comienzo de: 0
+[INFO] 22:21:44:828 Broker/(3614:3631): 	LRU actualizado: 22:21:44:828 ...
+[TRACE] 22:21:44:828 Broker/(3614:3631): 	Mensaje enviado a socket: 7
+[TRACE] 22:21:44:844 Broker/(3614:3631): 	Mensaje: 1  RECIBIDO (10)
+[WARNING] 22:21:44:844 Broker/(3614:3631): 	Desconexion de socket: 10 ...
+[TRACE] 22:21:44:896 Broker/(3614:3632): 	AGREGANDO MENSAJE: APPEARED_POKEMON (19 -> 32).
+[TRACE] 22:21:44:896 Broker/(3614:3632): 	Se almacena al comienzo de: 32

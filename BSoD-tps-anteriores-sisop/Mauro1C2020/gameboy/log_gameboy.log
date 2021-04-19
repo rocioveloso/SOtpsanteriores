@@ -1,0 +1,518 @@
+[TRACE] 22:19:35:566 gameboy/(3469:3469): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:19:35:566 gameboy/(3469:3469): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:19:46:487 gameboy/(3473:3473): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:19:46:488 gameboy/(3473:3473): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:20:54:333 gameboy/(3583:3583): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:20:54:333 gameboy/(3583:3583): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:21:44:827 gameboy/(3630:3630): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:21:44:827 gameboy/(3630:3630): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:23:05:286 gameboy/(3723:3723): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:23:05:286 gameboy/(3723:3723): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:24:40:283 gameboy/(3819:3819): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:24:40:283 gameboy/(3819:3819): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:24:50:142 gameboy/(3827:3827): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:24:50:142 gameboy/(3827:3827): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:24:58:927 gameboy/(3830:3830): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:24:58:929 gameboy/(3830:3830): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:25:30:392 gameboy/(3860:3860): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:25:30:393 gameboy/(3860:3860): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:25:35:735 gameboy/(3868:3868): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:25:35:736 gameboy/(3868:3868): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:25:39:487 gameboy/(3876:3876): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:25:39:487 gameboy/(3876:3876): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:25:43:963 gameboy/(3884:3884): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:25:43:963 gameboy/(3884:3884): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:25:47:745 gameboy/(3887:3887): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:25:47:745 gameboy/(3887:3887): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:25:53:434 gameboy/(3896:3896): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:25:53:434 gameboy/(3896:3896): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:29:00:734 gameboy/(4018:4018): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:29:00:734 gameboy/(4018:4018): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:29:02:826 gameboy/(4021:4021): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:29:02:826 gameboy/(4021:4021): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:29:05:100 gameboy/(4030:4030): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:29:05:100 gameboy/(4030:4030): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:29:07:362 gameboy/(4033:4033): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:29:07:362 gameboy/(4033:4033): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:29:10:588 gameboy/(4041:4041): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:29:10:588 gameboy/(4041:4041): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:34:35:627 gameboy/(4279:4279): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:34:35:627 gameboy/(4279:4279): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:34:43:18 gameboy/(4287:4287): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:34:43:18 gameboy/(4287:4287): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:34:47:600 gameboy/(4295:4295): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:34:47:600 gameboy/(4295:4295): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:34:50:527 gameboy/(4298:4298): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:34:50:529 gameboy/(4298:4298): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:34:53:329 gameboy/(4306:4306): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:34:53:329 gameboy/(4306:4306): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:35:26:772 gameboy/(4339:4339): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:35:26:772 gameboy/(4339:4339): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:35:50:485 gameboy/(4352:4352): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:35:50:485 gameboy/(4352:4352): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:36:14:560 gameboy/(4383:4383): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:36:14:563 gameboy/(4383:4383): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:41:37:125 gameboy/(4778:4778): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:41:37:126 gameboy/(4778:4778): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:42:06:246 gameboy/(4815:4815): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:42:06:246 gameboy/(4815:4815): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:42:44:774 gameboy/(4856:4856): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:42:44:774 gameboy/(4856:4856): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:43:13:79 gameboy/(4884:4884): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:43:13:79 gameboy/(4884:4884): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:43:19:618 gameboy/(4887:4887): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:43:19:618 gameboy/(4887:4887): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:43:22:561 gameboy/(4891:4891): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:43:22:561 gameboy/(4891:4891): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:43:25:385 gameboy/(4894:4894): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:43:25:385 gameboy/(4894:4894): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:43:28:963 gameboy/(4897:4897): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:43:28:963 gameboy/(4897:4897): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:43:40:786 gameboy/(4905:4905): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:43:40:786 gameboy/(4905:4905): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:43:47:193 gameboy/(4908:4908): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:43:47:193 gameboy/(4908:4908): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:43:52:365 gameboy/(4911:4911): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:43:52:365 gameboy/(4911:4911): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:43:56:801 gameboy/(4914:4914): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:43:56:802 gameboy/(4914:4914): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:44:01:687 gameboy/(4917:4917): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:44:01:687 gameboy/(4917:4917): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:44:04:856 gameboy/(4925:4925): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:44:04:857 gameboy/(4925:4925): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:44:07:780 gameboy/(4928:4928): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:44:07:780 gameboy/(4928:4928): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:44:13:271 gameboy/(4931:4931): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:44:13:271 gameboy/(4931:4931): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:44:19:290 gameboy/(4934:4934): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:44:19:290 gameboy/(4934:4934): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:44:22:882 gameboy/(4937:4937): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:44:22:882 gameboy/(4937:4937): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:44:26:685 gameboy/(4940:4940): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:44:26:685 gameboy/(4940:4940): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:44:30:298 gameboy/(4943:4943): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:44:30:298 gameboy/(4943:4943): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:44:33:775 gameboy/(4946:4946): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:44:33:775 gameboy/(4946:4946): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:44:42:385 gameboy/(4964:4964): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:44:42:385 gameboy/(4964:4964): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:44:45:582 gameboy/(4967:4967): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:44:45:582 gameboy/(4967:4967): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:44:48:714 gameboy/(4970:4970): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:44:48:714 gameboy/(4970:4970): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:44:51:660 gameboy/(4973:4973): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:44:51:661 gameboy/(4973:4973): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:44:55:83 gameboy/(4976:4976): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:44:55:83 gameboy/(4976:4976): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:44:57:986 gameboy/(4979:4979): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:44:57:986 gameboy/(4979:4979): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:45:00:499 gameboy/(4982:4982): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:45:00:499 gameboy/(4982:4982): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:45:04:420 gameboy/(4985:4985): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:45:04:421 gameboy/(4985:4985): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:45:07:715 gameboy/(4993:4993): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:45:07:715 gameboy/(4993:4993): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:45:10:255 gameboy/(4996:4996): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:45:10:255 gameboy/(4996:4996): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:45:12:968 gameboy/(4999:4999): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:45:12:968 gameboy/(4999:4999): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:45:16:777 gameboy/(5002:5002): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:45:16:777 gameboy/(5002:5002): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:45:20:951 gameboy/(5005:5005): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:45:20:952 gameboy/(5005:5005): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:45:23:895 gameboy/(5008:5008): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:45:23:895 gameboy/(5008:5008): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:45:26:734 gameboy/(5011:5011): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:45:26:734 gameboy/(5011:5011): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:45:29:528 gameboy/(5014:5014): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:45:29:528 gameboy/(5014:5014): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:45:32:277 gameboy/(5017:5017): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:45:32:277 gameboy/(5017:5017): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:45:40:123 gameboy/(5026:5026): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:45:40:123 gameboy/(5026:5026): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:46:00:833 gameboy/(5029:5029): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:46:00:833 gameboy/(5029:5029): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:46:07:567 gameboy/(5037:5037): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:46:07:567 gameboy/(5037:5037): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:46:09:955 gameboy/(5040:5040): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:46:09:955 gameboy/(5040:5040): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:46:12:697 gameboy/(5043:5043): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:46:12:697 gameboy/(5043:5043): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:46:15:364 gameboy/(5046:5046): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:46:15:365 gameboy/(5046:5046): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:46:18:221 gameboy/(5049:5049): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:46:18:222 gameboy/(5049:5049): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:46:21:318 gameboy/(5053:5053): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:46:21:318 gameboy/(5053:5053): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:46:26:535 gameboy/(5056:5056): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:46:26:535 gameboy/(5056:5056): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:46:28:875 gameboy/(5059:5059): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:46:28:875 gameboy/(5059:5059): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:46:31:301 gameboy/(5062:5062): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:46:31:301 gameboy/(5062:5062): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:46:36:85 gameboy/(5070:5070): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:46:36:85 gameboy/(5070:5070): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:46:49:386 gameboy/(5073:5073): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:46:49:386 gameboy/(5073:5073): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:46:51:753 gameboy/(5081:5081): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:46:51:753 gameboy/(5081:5081): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:46:53:840 gameboy/(5089:5089): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:46:53:840 gameboy/(5089:5089): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:46:55:854 gameboy/(5092:5092): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:46:55:855 gameboy/(5092:5092): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:47:12:887 gameboy/(5100:5100): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:47:12:887 gameboy/(5100:5100): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:47:16:44 gameboy/(5103:5103): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:47:16:44 gameboy/(5103:5103): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:47:21:250 gameboy/(5107:5107): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:47:21:250 gameboy/(5107:5107): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:47:23:803 gameboy/(5110:5110): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:47:23:803 gameboy/(5110:5110): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:47:27:650 gameboy/(5114:5114): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:47:27:650 gameboy/(5114:5114): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:57:38:570 gameboy/(5403:5403): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:57:38:570 gameboy/(5403:5403): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:57:53:454 gameboy/(5422:5422): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:57:53:454 gameboy/(5422:5422): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:57:59:753 gameboy/(5425:5425): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:57:59:753 gameboy/(5425:5425): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:58:02:389 gameboy/(5428:5428): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:58:02:389 gameboy/(5428:5428): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:58:04:712 gameboy/(5436:5436): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:58:04:712 gameboy/(5436:5436): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:58:07:107 gameboy/(5439:5439): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:58:07:107 gameboy/(5439:5439): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:58:11:220 gameboy/(5448:5448): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:58:11:220 gameboy/(5448:5448): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:58:13:780 gameboy/(5451:5451): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:58:13:780 gameboy/(5451:5451): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:58:16:298 gameboy/(5455:5455): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:58:16:298 gameboy/(5455:5455): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:58:47:938 gameboy/(5460:5460): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:58:47:938 gameboy/(5460:5460): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:58:54:12 gameboy/(5463:5463): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:58:54:12 gameboy/(5463:5463): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:58:59:213 gameboy/(5466:5466): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:58:59:213 gameboy/(5466:5466): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:59:01:546 gameboy/(5469:5469): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:59:01:546 gameboy/(5469:5469): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:59:06:982 gameboy/(5472:5472): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:59:06:983 gameboy/(5472:5472): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:59:10:751 gameboy/(5475:5475): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:59:10:751 gameboy/(5475:5475): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:59:12:501 gameboy/(5478:5478): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:59:12:501 gameboy/(5478:5478): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:59:14:490 gameboy/(5481:5481): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:59:14:490 gameboy/(5481:5481): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:59:16:935 gameboy/(5485:5485): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:59:16:935 gameboy/(5485:5485): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:59:21:604 gameboy/(5488:5488): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:59:21:604 gameboy/(5488:5488): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:59:51:629 gameboy/(5534:5534): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:59:51:630 gameboy/(5534:5534): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:59:54:456 gameboy/(5538:5538): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:59:54:456 gameboy/(5538:5538): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:59:56:984 gameboy/(5541:5541): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:59:56:984 gameboy/(5541:5541): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 22:59:58:973 gameboy/(5544:5544): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 22:59:58:973 gameboy/(5544:5544): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 23:00:01:6 gameboy/(5547:5547): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 23:00:01:6 gameboy/(5547:5547): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 23:00:03:227 gameboy/(5550:5550): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 23:00:03:228 gameboy/(5550:5550): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 23:00:05:306 gameboy/(5558:5558): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 23:00:05:306 gameboy/(5558:5558): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 23:00:07:130 gameboy/(5561:5561): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 23:00:07:130 gameboy/(5561:5561): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 23:00:09:79 gameboy/(5569:5569): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 23:00:09:80 gameboy/(5569:5569): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 23:00:13:208 gameboy/(5572:5572): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 23:00:13:208 gameboy/(5572:5572): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 23:00:15:565 gameboy/(5580:5580): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 23:00:15:565 gameboy/(5580:5580): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 23:00:17:602 gameboy/(5583:5583): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 23:00:17:602 gameboy/(5583:5583): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 23:00:19:755 gameboy/(5586:5586): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 23:00:19:756 gameboy/(5586:5586): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 23:00:21:688 gameboy/(5589:5589): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 23:00:21:688 gameboy/(5589:5589): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 23:00:23:726 gameboy/(5592:5592): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 23:00:23:726 gameboy/(5592:5592): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 23:00:26:292 gameboy/(5595:5595): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 23:00:26:293 gameboy/(5595:5595): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 23:00:28:45 gameboy/(5598:5598): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 23:00:28:45 gameboy/(5598:5598): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 23:00:30:116 gameboy/(5601:5601): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 23:00:30:117 gameboy/(5601:5601): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 23:00:32:100 gameboy/(5604:5604): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 23:00:32:101 gameboy/(5604:5604): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:05:599 gameboy/(6733:6733): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:05:600 gameboy/(6733:6733): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:05:957 gameboy/(6746:6746): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:05:957 gameboy/(6746:6746): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:50:737 gameboy/(6790:6790): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:50:737 gameboy/(6790:6790): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:51:235 gameboy/(6793:6793): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:51:235 gameboy/(6793:6793): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:51:705 gameboy/(6796:6796): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:51:706 gameboy/(6796:6796): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:52:78 gameboy/(6799:6799): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:52:78 gameboy/(6799:6799): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:52:474 gameboy/(6802:6802): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:52:474 gameboy/(6802:6802): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:52:854 gameboy/(6805:6805): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:52:854 gameboy/(6805:6805): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:53:218 gameboy/(6808:6808): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:53:218 gameboy/(6808:6808): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:53:573 gameboy/(6811:6811): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:53:573 gameboy/(6811:6811): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:53:915 gameboy/(6814:6814): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:53:916 gameboy/(6814:6814): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:54:412 gameboy/(6817:6817): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:54:412 gameboy/(6817:6817): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:55:376 gameboy/(6820:6820): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:55:376 gameboy/(6820:6820): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:55:696 gameboy/(6823:6823): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:55:696 gameboy/(6823:6823): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:55:983 gameboy/(6826:6826): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:55:984 gameboy/(6826:6826): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:56:300 gameboy/(6829:6829): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:56:301 gameboy/(6829:6829): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:56:620 gameboy/(6832:6832): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:56:620 gameboy/(6832:6832): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:56:928 gameboy/(6836:6836): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:56:928 gameboy/(6836:6836): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:57:228 gameboy/(6839:6839): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:57:228 gameboy/(6839:6839): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:57:559 gameboy/(6842:6842): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:57:559 gameboy/(6842:6842): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:57:873 gameboy/(6845:6845): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:57:873 gameboy/(6845:6845): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:58:194 gameboy/(6848:6848): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:58:194 gameboy/(6848:6848): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:58:527 gameboy/(6851:6851): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:58:527 gameboy/(6851:6851): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:58:877 gameboy/(6854:6854): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:58:877 gameboy/(6854:6854): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:59:199 gameboy/(6857:6857): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:59:199 gameboy/(6857:6857): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:59:558 gameboy/(6860:6860): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:59:559 gameboy/(6860:6860): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:03:59:872 gameboy/(6868:6868): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:03:59:873 gameboy/(6868:6868): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:00:201 gameboy/(6871:6871): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:00:201 gameboy/(6871:6871): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:00:566 gameboy/(6874:6874): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:00:566 gameboy/(6874:6874): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:00:907 gameboy/(6877:6877): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:00:908 gameboy/(6877:6877): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:01:270 gameboy/(6880:6880): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:01:270 gameboy/(6880:6880): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:05:231 gameboy/(6883:6883): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:05:231 gameboy/(6883:6883): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:05:411 gameboy/(6886:6886): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:05:411 gameboy/(6886:6886): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:05:567 gameboy/(6889:6889): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:05:567 gameboy/(6889:6889): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:05:722 gameboy/(6892:6892): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:05:722 gameboy/(6892:6892): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:05:872 gameboy/(6895:6895): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:05:873 gameboy/(6895:6895): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:06:52 gameboy/(6898:6898): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:06:52 gameboy/(6898:6898): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:06:206 gameboy/(6901:6901): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:06:206 gameboy/(6901:6901): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:06:367 gameboy/(6904:6904): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:06:367 gameboy/(6904:6904): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:06:525 gameboy/(6907:6907): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:06:525 gameboy/(6907:6907): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:06:687 gameboy/(6910:6910): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:06:689 gameboy/(6910:6910): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:06:840 gameboy/(6914:6914): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:06:840 gameboy/(6914:6914): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:06:2 gameboy/(6919:6919): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:06:2 gameboy/(6919:6919): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:07:155 gameboy/(6922:6922): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:07:155 gameboy/(6922:6922): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:07:321 gameboy/(6925:6925): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:07:321 gameboy/(6925:6925): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:07:484 gameboy/(6928:6928): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:07:484 gameboy/(6928:6928): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:07:641 gameboy/(6931:6931): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:07:641 gameboy/(6931:6931): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:07:804 gameboy/(6934:6934): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:07:804 gameboy/(6934:6934): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:07:966 gameboy/(6937:6937): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:07:966 gameboy/(6937:6937): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:08:111 gameboy/(6940:6940): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:08:111 gameboy/(6940:6940): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:08:284 gameboy/(6943:6943): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:08:284 gameboy/(6943:6943): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:08:451 gameboy/(6946:6946): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:08:451 gameboy/(6946:6946): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:08:611 gameboy/(6954:6954): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:08:611 gameboy/(6954:6954): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:08:764 gameboy/(6957:6957): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:08:764 gameboy/(6957:6957): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:08:925 gameboy/(6960:6960): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:08:926 gameboy/(6960:6960): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:09:113 gameboy/(6963:6963): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:09:114 gameboy/(6963:6963): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:09:284 gameboy/(6966:6966): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:09:284 gameboy/(6966:6966): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:09:466 gameboy/(6969:6969): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:09:466 gameboy/(6969:6969): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:09:634 gameboy/(6972:6972): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:09:634 gameboy/(6972:6972): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:09:805 gameboy/(6975:6975): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:09:805 gameboy/(6975:6975): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:09:985 gameboy/(6978:6978): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:09:985 gameboy/(6978:6978): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:10:163 gameboy/(6981:6981): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:10:163 gameboy/(6981:6981): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:10:345 gameboy/(6984:6984): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:10:345 gameboy/(6984:6984): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:10:512 gameboy/(6987:6987): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:10:512 gameboy/(6987:6987): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:10:679 gameboy/(6990:6990): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:10:679 gameboy/(6990:6990): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:10:847 gameboy/(6993:6993): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:10:847 gameboy/(6993:6993): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:11:17 gameboy/(6996:6996): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:11:17 gameboy/(6996:6996): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:11:202 gameboy/(6999:6999): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:11:202 gameboy/(6999:6999): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:11:389 gameboy/(7002:7002): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:11:389 gameboy/(7002:7002): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:11:572 gameboy/(7005:7005): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:11:572 gameboy/(7005:7005): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:11:741 gameboy/(7008:7008): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:11:741 gameboy/(7008:7008): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:11:916 gameboy/(7011:7011): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:11:916 gameboy/(7011:7011): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:12:89 gameboy/(7014:7014): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:12:90 gameboy/(7014:7014): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:12:271 gameboy/(7017:7017): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:12:271 gameboy/(7017:7017): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:12:451 gameboy/(7020:7020): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:12:451 gameboy/(7020:7020): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:12:623 gameboy/(7023:7023): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:12:623 gameboy/(7023:7023): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:12:791 gameboy/(7026:7026): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:12:791 gameboy/(7026:7026): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:12:977 gameboy/(7029:7029): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:12:978 gameboy/(7029:7029): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:13:145 gameboy/(7032:7032): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:13:145 gameboy/(7032:7032): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:13:310 gameboy/(7035:7035): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:13:310 gameboy/(7035:7035): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:13:505 gameboy/(7038:7038): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:13:505 gameboy/(7038:7038): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:13:686 gameboy/(7041:7041): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:13:687 gameboy/(7041:7041): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:13:857 gameboy/(7044:7044): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:13:857 gameboy/(7044:7044): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:14:40 gameboy/(7047:7047): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:14:40 gameboy/(7047:7047): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:14:206 gameboy/(7050:7050): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:14:206 gameboy/(7050:7050): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:14:401 gameboy/(7053:7053): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:14:401 gameboy/(7053:7053): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:14:584 gameboy/(7056:7056): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:14:584 gameboy/(7056:7056): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:14:802 gameboy/(7059:7059): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:14:803 gameboy/(7059:7059): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:14:978 gameboy/(7062:7062): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:14:978 gameboy/(7062:7062): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:15:159 gameboy/(7065:7065): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:15:161 gameboy/(7065:7065): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:15:344 gameboy/(7068:7068): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:15:344 gameboy/(7068:7068): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:15:513 gameboy/(7071:7071): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:15:513 gameboy/(7071:7071): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:15:703 gameboy/(7074:7074): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:15:704 gameboy/(7074:7074): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:15:872 gameboy/(7077:7077): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:15:873 gameboy/(7077:7077): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:16:68 gameboy/(7080:7080): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:16:68 gameboy/(7080:7080): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:16:246 gameboy/(7083:7083): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:16:247 gameboy/(7083:7083): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:16:429 gameboy/(7086:7086): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:16:429 gameboy/(7086:7086): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:16:626 gameboy/(7089:7089): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:16:626 gameboy/(7089:7089): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:16:827 gameboy/(7092:7092): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:16:827 gameboy/(7092:7092): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:17:5 gameboy/(7095:7095): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:17:5 gameboy/(7095:7095): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:17:176 gameboy/(7098:7098): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:17:177 gameboy/(7098:7098): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:17:361 gameboy/(7101:7101): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:17:361 gameboy/(7101:7101): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:17:539 gameboy/(7104:7104): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:17:539 gameboy/(7104:7104): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:17:719 gameboy/(7107:7107): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:17:719 gameboy/(7107:7107): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:17:905 gameboy/(7110:7110): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:17:906 gameboy/(7110:7110): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:18:79 gameboy/(7113:7113): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:18:79 gameboy/(7113:7113): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:18:263 gameboy/(7116:7116): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:18:263 gameboy/(7116:7116): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:18:430 gameboy/(7119:7119): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:18:430 gameboy/(7119:7119): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:18:610 gameboy/(7122:7122): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:18:610 gameboy/(7122:7122): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:18:797 gameboy/(7125:7125): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:18:798 gameboy/(7125:7125): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:18:989 gameboy/(7128:7128): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:18:989 gameboy/(7128:7128): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:19:159 gameboy/(7131:7131): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:19:159 gameboy/(7131:7131): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:19:332 gameboy/(7134:7134): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:19:332 gameboy/(7134:7134): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:19:524 gameboy/(7137:7137): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:19:525 gameboy/(7137:7137): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:19:706 gameboy/(7140:7140): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:19:706 gameboy/(7140:7140): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:19:891 gameboy/(7143:7143): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:19:891 gameboy/(7143:7143): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:20:68 gameboy/(7146:7146): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:20:68 gameboy/(7146:7146): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:20:296 gameboy/(7149:7149): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:20:296 gameboy/(7149:7149): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:20:478 gameboy/(7152:7152): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:20:480 gameboy/(7152:7152): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:20:661 gameboy/(7155:7155): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:20:661 gameboy/(7155:7155): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:20:858 gameboy/(7158:7158): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:20:858 gameboy/(7158:7158): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:21:53 gameboy/(7161:7161): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:21:53 gameboy/(7161:7161): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:21:306 gameboy/(7164:7164): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:21:306 gameboy/(7164:7164): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:21:627 gameboy/(7167:7167): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:21:627 gameboy/(7167:7167): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:22:487 gameboy/(7170:7170): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:22:487 gameboy/(7170:7170): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:22:1 gameboy/(7173:7173): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:22:1 gameboy/(7173:7173): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:23:601 gameboy/(7176:7176): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:23:602 gameboy/(7176:7176): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:24:655 gameboy/(7179:7179): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:24:656 gameboy/(7179:7179): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:04:34:772 gameboy/(7182:7182): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:04:34:773 gameboy/(7182:7182): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:06:31:522 gameboy/(7246:7246): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:06:31:522 gameboy/(7246:7246): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:06:32:471 gameboy/(7249:7249): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:06:32:472 gameboy/(7249:7249): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:06:33:470 gameboy/(7252:7252): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:06:33:470 gameboy/(7252:7252): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:06:34:455 gameboy/(7255:7255): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:06:34:455 gameboy/(7255:7255): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:06:38:338 gameboy/(7270:7270): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:06:38:338 gameboy/(7270:7270): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.
+[TRACE] 00:06:39:480 gameboy/(7274:7274): Hice una conexion con BROKER, IP: 127.0.0.2, PUERTO: 5002, ID:4.
+[TRACE] 00:06:39:481 gameboy/(7274:7274): NEW_POKEMON:11, Pokemon:PIKACHU,  X:1,  Y:2, Cantidad:3.

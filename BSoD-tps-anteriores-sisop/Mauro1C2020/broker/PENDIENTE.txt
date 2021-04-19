@@ -1,0 +1,60 @@
+LISTO - Conexión de un proceso al broker.
+LISTO - Suscripción de un proceso a una cola de mensajes.
+LISTO - Llegada de un nuevo mensaje a una cola de mensajes.
+LISTO - Envío de un mensaje a un suscriptor específico.
+LISTO - Confirmación de recepción de un suscripción al envío de un mensaje previo.
+LISTO - Almacenado de un mensaje dentro de la memoria (indicando posición de inicio de su partición).
+LISTO - Eliminado de una partición de memoria (indicado la posición de inicio de la misma).
+LIST0 - Ejecución de compactación (para particiones dinámicas) o asociación de bloques (para buddy system). En este último, indicar que particiones se asociaron (indicar posición inicio de ambas particiones).
+LISTO - Ejecución de Dump de cache (solo informar que se solicitó el mismo).
+
+//////////////////OPCIONES DE SINCRONIZACION para colas/////////////////////////////////
+
+
+colas=new,appeared,catch,caugh,get,localized
+
+opcion 1) acceder a todo, a traves de colas
+
+wait(colas);
+
+new=list_get(colas,0);
+
+//operamos
+
+signal(colas);
+
+opcion 2) cada vez que operamos con colas hacemos todos los wait
+
+wait(new)
+wait(appeared)
+wait(catch)
+wait(caugh)
+wait(get)
+wait(localized)
+
+operamos con colas
+
+signal(new)
+signal(appeared)
+signal(catch)
+signal(caugh)
+signal(get)
+signal(localized)
+
+opcion 3) tener una lista de semaforos ordenada de la misma manera que colas
+
+
+colas=new,appeared,catch,caugh,get,localized
+
+semaforos=mutex_new,mutex_appeared,mutex_catch,mutex_caugh,mutex_get,mutex_localized
+
+while (i<6)
+{
+	unaCola=list_get(colas,i);
+	semaforo=list_get(semaforos,i);
+	wait(semaforo);
+		opero unaCola;
+	signal(semaforo);
+}
+
+
